@@ -1,0 +1,8 @@
+{"event": "lgu_app_01", "timestamp": 1739782239073, "local_time": "2025-02-17 17:50:39", "item_id": "01-002", "bt_desc": "식품-견과/건과", "access_type": "web", "amount": 5}
+{"event": "lgu_app_01", "timestamp": 1739838770283, "local_time": "2025-02-18 09:32:50", "item_id": "01-002", "bt_desc": "식품-견과/건과", "access_type": "web", "amount": 4}
+{"event": "lgu_app_01", "timestamp": 1740372974266, "local_time": "2025-02-24 13:56:14", "item_id": "01-001", "bt_desc": "식품-과일", "access_type": "phone", "amount": 5}
+{"event": "lgu_app_01", "timestamp": 1740372974991, "local_time": "2025-02-24 13:56:14", "item_id": "01-002", "bt_desc": "식품-견과/건과", "access_type": "web", "amount": 1}
+{"event": "lgu_app_01", "timestamp": 1740372975417, "local_time": "2025-02-24 13:56:15", "item_id": "01-003", "bt_desc": "식품-채소", "access_type": "phone", "amount": 1}
+{"event": "lgu_app_01", "timestamp": 1740372975721, "local_time": "2025-02-24 13:56:15", "item_id": "01-006", "bt_desc": "식품-건강식품", "access_type": "web", "amount": 4}
+{"event": "lgu_app_01", "timestamp": 1740372976002, "local_time": "2025-02-24 13:56:16", "item_id": "01-005", "bt_desc": "식품-생수/음료", "access_type": "phone", "amount": 1}
+{"event": "lgu_app_01", "timestamp": 1740372976261, "local_time": "2025-02-24 13:56:16", "item_id": "01-001", "bt_desc": "식품-과일", "access_type": "phone", "amount": 3}
