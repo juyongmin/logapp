@@ -6,3 +6,4 @@
 {"event": "lgu_app_01", "timestamp": 1740372975721, "local_time": "2025-02-24 13:56:15", "item_id": "01-006", "bt_desc": "식품-건강식품", "access_type": "web", "amount": 4}
 {"event": "lgu_app_01", "timestamp": 1740372976002, "local_time": "2025-02-24 13:56:16", "item_id": "01-005", "bt_desc": "식품-생수/음료", "access_type": "phone", "amount": 1}
 {"event": "lgu_app_01", "timestamp": 1740372976261, "local_time": "2025-02-24 13:56:16", "item_id": "01-001", "bt_desc": "식품-과일", "access_type": "phone", "amount": 3}
+{"event": "lgu_app_01", "timestamp": 1740445830640, "local_time": "2025-02-25 10:10:30", "item_id": "01-001", "bt_desc": "식품-과일", "access_type": "phone", "amount": 2}

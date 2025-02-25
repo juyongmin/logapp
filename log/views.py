@@ -1,9 +1,7 @@
 from django.shortcuts import render
-import requests
 import datetime
 import json
 import random
-from django.db import connection
 
 
 # Create your views here.
@@ -211,7 +209,7 @@ def btn_geni_click(request, product_id):
 
     with open("logi.log", "a+") as fd:
         json_data = json.dumps(get_log(product_id), ensure_ascii=False)
-        fd.write(json_data + "\n")  # 한 줄씩 JSON 문자열로 저장 (ensure_ascii=False --> 한글안깨짐)
+       #fd.write(json_data + "\n")  # 한 줄씩 JSON 문자열로 저장 (ensure_ascii=False --> 한글안깨짐)
         print(json_data, type(json_data))
 
     return render(request, "geni.html")
